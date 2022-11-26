@@ -1,2 +1,2 @@
 # theCPA.IN
-Holds files used in ChalkPieceAcademy projects
+Holds files used in ChalkPieceAcademy's projects
